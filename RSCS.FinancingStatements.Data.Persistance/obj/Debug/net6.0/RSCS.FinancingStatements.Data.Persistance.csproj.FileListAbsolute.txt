@@ -1,0 +1,60 @@
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.deps.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.csproj.AssemblyReference.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.AssemblyInfoInputs.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.AssemblyInfo.cs
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.csproj.CoreCompileInputs.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.csproj.CopyComplete
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\refint\RSCS.FinancingStatements.Data.Persistance.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\ref\RSCS.FinancingStatements.Data.Persistance.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Core.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.deps.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Core.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.csproj.AssemblyReference.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.AssemblyInfoInputs.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.AssemblyInfo.cs
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.csproj.CoreCompileInputs.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.csproj.CopyComplete
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\refint\RSCS.FinancingStatements.Data.Persistance.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\ref\RSCS.FinancingStatements.Data.Persistance.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.deps.json
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.pdb
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Core.pdb
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.csproj.AssemblyReference.cache
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.AssemblyInfoInputs.cache
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.AssemblyInfo.cs
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.csproj.CoreCompileInputs.cache
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.csproj.CopyComplete
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\refint\RSCS.FinancingStatements.Data.Persistance.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.pdb
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\ref\RSCS.FinancingStatements.Data.Persistance.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.deps.json
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.pdb
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Core.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Data.Persistance\bin\Debug\net6.0\RSCS.FinancingStatements.Core.pdb
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.csproj.AssemblyReference.cache
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.AssemblyInfoInputs.cache
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.AssemblyInfo.cs
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.csproj.CoreCompileInputs.cache
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.csproj.CopyComplete
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\refint\RSCS.FinancingStatements.Data.Persistance.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.pdb
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Data.Persistance\obj\Debug\net6.0\ref\RSCS.FinancingStatements.Data.Persistance.dll
