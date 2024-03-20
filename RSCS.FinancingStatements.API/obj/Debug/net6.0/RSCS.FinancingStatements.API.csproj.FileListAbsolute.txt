@@ -1,0 +1,508 @@
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.csproj.AssemblyReference.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.AssemblyInfoInputs.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.AssemblyInfo.cs
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.csproj.CoreCompileInputs.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.MvcApplicationPartsAssemblyInfo.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\appsettings.Development.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\appsettings.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.exe
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.deps.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.runtimeconfig.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Azure.Core.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Azure.Identity.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Dapper.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Sinks.EventLog.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Text.Json.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Threading.AccessControl.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Repository.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Core.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Repository.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets\msbuild.RSCS.FinancingStatements.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets\msbuild.build.RSCS.FinancingStatements.API.props
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RSCS.FinancingStatements.API.props
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RSCS.FinancingStatements.API.props
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\scopedcss\bundle\RSCS.FinancingStatements.API.styles.css
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.csproj.CopyComplete
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\refint\RSCS.FinancingStatements.API.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.genruntimeconfig.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\ref\RSCS.FinancingStatements.API.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.MvcApplicationPartsAssemblyInfo.cs
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Shared.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Shared.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\appsettings.Development.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\appsettings.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.exe
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.deps.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.runtimeconfig.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Azure.Core.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Azure.Identity.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Dapper.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Sinks.EventLog.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Text.Json.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Threading.AccessControl.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Repository.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Shared.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Core.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Repository.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Shared.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.csproj.AssemblyReference.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.AssemblyInfoInputs.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.AssemblyInfo.cs
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.csproj.CoreCompileInputs.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.MvcApplicationPartsAssemblyInfo.cs
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.MvcApplicationPartsAssemblyInfo.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets\msbuild.RSCS.FinancingStatements.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets\msbuild.build.RSCS.FinancingStatements.API.props
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RSCS.FinancingStatements.API.props
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RSCS.FinancingStatements.API.props
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\scopedcss\bundle\RSCS.FinancingStatements.API.styles.css
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.csproj.CopyComplete
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\refint\RSCS.FinancingStatements.API.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.genruntimeconfig.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\ref\RSCS.FinancingStatements.API.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Abstractions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.Certificate.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.Diagnostics.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.TokenAcquisition.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.TokenCache.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\appsettings.Development.json
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\appsettings.json
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.exe
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.deps.json
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.runtimeconfig.json
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.pdb
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Azure.Core.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Azure.Identity.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Dapper.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Abstractions.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.Certificate.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.Diagnostics.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.TokenAcquisition.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.TokenCache.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Sinks.EventLog.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Text.Json.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Threading.AccessControl.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Repository.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Shared.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Core.pdb
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.pdb
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Repository.pdb
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Shared.pdb
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.csproj.AssemblyReference.cache
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.AssemblyInfoInputs.cache
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.AssemblyInfo.cs
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.csproj.CoreCompileInputs.cache
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.MvcApplicationPartsAssemblyInfo.cs
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.MvcApplicationPartsAssemblyInfo.cache
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets\msbuild.RSCS.FinancingStatements.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets\msbuild.build.RSCS.FinancingStatements.API.props
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RSCS.FinancingStatements.API.props
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RSCS.FinancingStatements.API.props
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\scopedcss\bundle\RSCS.FinancingStatements.API.styles.css
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.csproj.CopyComplete
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\refint\RSCS.FinancingStatements.API.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.pdb
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.genruntimeconfig.cache
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.API\obj\Debug\net6.0\ref\RSCS.FinancingStatements.API.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\appsettings.Development.json
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\appsettings.json
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.exe
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.deps.json
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.runtimeconfig.json
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.API.pdb
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Azure.Core.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Azure.Identity.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Dapper.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Abstractions.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.Certificate.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.Diagnostics.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.TokenAcquisition.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Identity.Web.TokenCache.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.LoggingExtensions.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.IdentityModel.Validators.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Sinks.EventLog.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Text.Json.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Threading.AccessControl.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Core.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Repository.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Shared.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Core.pdb
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Persistance.pdb
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Repository.pdb
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\bin\Debug\net6.0\RSCS.FinancingStatements.Shared.pdb
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.csproj.AssemblyReference.cache
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.AssemblyInfoInputs.cache
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.AssemblyInfo.cs
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.csproj.CoreCompileInputs.cache
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.MvcApplicationPartsAssemblyInfo.cs
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.MvcApplicationPartsAssemblyInfo.cache
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets\msbuild.RSCS.FinancingStatements.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets\msbuild.build.RSCS.FinancingStatements.API.props
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RSCS.FinancingStatements.API.props
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RSCS.FinancingStatements.API.props
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\scopedcss\bundle\RSCS.FinancingStatements.API.styles.css
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.csproj.CopyComplete
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\refint\RSCS.FinancingStatements.API.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.pdb
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\RSCS.FinancingStatements.API.genruntimeconfig.cache
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.API\obj\Debug\net6.0\ref\RSCS.FinancingStatements.API.dll

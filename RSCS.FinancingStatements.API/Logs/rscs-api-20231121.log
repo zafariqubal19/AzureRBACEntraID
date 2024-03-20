@@ -1,0 +1,21 @@
+2023-11-21 12:19:19.386 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-21 15:00:26.694 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-21 15:00:42.690 +05:30 [Error] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms has error : One or more errors occurred. (A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server))
+2023-11-21 15:03:04.990 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-21 15:12:27.860 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.ProgramMaintenanceController] [] getFinPrograms is fetched
+2023-11-21 16:07:32.937 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-21 16:15:08.991 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-21 16:19:12.648 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-21 16:30:15.531 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-21 16:35:38.554 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.ProgramMaintenanceController] [] getFinPrograms is fetched
+2023-11-21 16:35:42.052 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.ProgramMaintenanceController] [] getFinPrograms is fetched
+2023-11-21 16:35:49.967 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.ProgramMaintenanceController] [] getFinPrograms is fetched
+2023-11-21 17:37:50.585 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-21 17:44:09.658 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-21 17:49:29.136 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-21 18:59:14.121 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-21 19:04:50.009 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-21 19:06:42.352 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-21 20:11:18.533 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-21 20:33:00.131 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-21 20:37:05.065 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched

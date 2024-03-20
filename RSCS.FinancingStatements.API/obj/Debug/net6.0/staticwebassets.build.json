@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PPHC8jfk7qO3yMzdkY3cePsq17fG7T4UdofQHZZGR20=",
+  "Source": "RSCS.FinancingStatements.API",
+  "BasePath": "_content/RSCS.FinancingStatements.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

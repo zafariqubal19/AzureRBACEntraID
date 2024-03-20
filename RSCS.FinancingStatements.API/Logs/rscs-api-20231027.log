@@ -1,0 +1,16 @@
+2023-10-27 11:07:41.353 +05:30 [Error] [Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware] [{ Id: 1, Name: "UnhandledException" }] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authentication handler is registered for the scheme 'Negotiate'. The registered schemes are: Bearer. Did you forget to call AddAuthentication().Add[SomeAuthHandler]("Negotiate",...)?
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authorization.Policy.PolicyEvaluator.AuthenticateAsync(AuthorizationPolicy policy, HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2023-10-27 17:19:58.678 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-10-27 17:20:14.954 +05:30 [Error] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms has error : One or more errors occurred. (A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server))
+2023-10-27 17:25:59.312 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-10-27 17:26:53.589 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-10-27 17:28:06.982 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] GetFinProgramsFranchisees is fetched
+2023-10-27 17:28:43.494 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] GetFinProgramsFranchisees is fetched
+2023-10-27 17:29:30.051 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] GetFinProgramsFranchisees is fetched

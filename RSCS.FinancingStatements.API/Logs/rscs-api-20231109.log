@@ -1,0 +1,13 @@
+2023-11-09 13:13:32.011 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-09 13:13:47.808 +05:30 [Error] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms has error : One or more errors occurred. (A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server))
+2023-11-09 13:18:07.865 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-09 13:18:51.894 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.ProgramMaintenanceController] [] getFinPrograms is fetched
+2023-11-09 13:18:56.938 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.ProgramMaintenanceController] [] getFinPrograms is fetched
+2023-11-09 13:19:00.603 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.ProgramMaintenanceController] [] getFinPrograms is fetched
+2023-11-09 14:58:09.480 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
+2023-11-09 14:58:25.309 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.ProgramMaintenanceController] [] getFinPrograms is fetched
+2023-11-09 14:58:30.742 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.ProgramMaintenanceController] [] getFinPrograms is fetched
+2023-11-09 14:58:41.109 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.ProgramMaintenanceController] [] getFinPrograms is fetched
+2023-11-09 14:58:47.437 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.SecurityController] [] GetReferences is fetched
+2023-11-09 14:58:47.520 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.SecurityController] [] GetContacts is fetched
+2023-11-09 15:04:57.866 +05:30 [Information] [RSCS.FinancingStatements.API.Controllers.InvoiceController] [] getFinPrograms is fetched
