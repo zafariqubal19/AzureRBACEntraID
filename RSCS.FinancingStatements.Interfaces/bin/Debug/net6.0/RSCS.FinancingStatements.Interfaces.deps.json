@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RSCS.FinancingStatements.Interfaces/1.0.0": {
+        "dependencies": {
+          "RSCS.FinancingStatements.BusinessObjects": "1.0.0",
+          "RSCS.FinancingStatements.Data.Entities": "1.0.0"
+        },
+        "runtime": {
+          "RSCS.FinancingStatements.Interfaces.dll": {}
+        }
+      },
+      "RSCS.FinancingStatements.BusinessObjects/1.0.0": {
+        "runtime": {
+          "RSCS.FinancingStatements.BusinessObjects.dll": {}
+        }
+      },
+      "RSCS.FinancingStatements.Data.Entities/1.0.0": {
+        "runtime": {
+          "RSCS.FinancingStatements.Data.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RSCS.FinancingStatements.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RSCS.FinancingStatements.BusinessObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RSCS.FinancingStatements.Data.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
