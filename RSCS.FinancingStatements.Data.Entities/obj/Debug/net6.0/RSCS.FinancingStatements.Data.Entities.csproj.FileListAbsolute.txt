@@ -1,0 +1,12 @@
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Entities\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Entities.deps.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Entities\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Entities.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Entities\bin\Debug\net6.0\RSCS.FinancingStatements.Data.Entities.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Entities\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Entities.csproj.AssemblyReference.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Entities\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Entities\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Entities.AssemblyInfoInputs.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Entities\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Entities.AssemblyInfo.cs
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Entities\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Entities.csproj.CoreCompileInputs.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Entities\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Entities.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Entities\obj\Debug\net6.0\refint\RSCS.FinancingStatements.Data.Entities.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Entities\obj\Debug\net6.0\RSCS.FinancingStatements.Data.Entities.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Data.Entities\obj\Debug\net6.0\ref\RSCS.FinancingStatements.Data.Entities.dll

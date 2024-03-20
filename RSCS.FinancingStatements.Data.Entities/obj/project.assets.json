@@ -1,0 +1,77 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\zafar.iqubal\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\RSCS\\RSCS Development\\FinancingStatement Migration\\RSCSFP\\RSCSFinancingStatements\\RSCS.FinancingStatements.Data.Entities\\RSCS.FinancingStatements.Data.Entities.csproj",
+      "projectName": "RSCS.FinancingStatements.Data.Entities",
+      "projectPath": "D:\\RSCS\\RSCS Development\\FinancingStatement Migration\\RSCSFP\\RSCSFinancingStatements\\RSCS.FinancingStatements.Data.Entities\\RSCS.FinancingStatements.Data.Entities.csproj",
+      "packagesPath": "C:\\Users\\zafar.iqubal\\.nuget\\packages\\",
+      "outputPath": "D:\\RSCS\\RSCS Development\\FinancingStatement Migration\\RSCSFP\\RSCSFinancingStatements\\RSCS.FinancingStatements.Data.Entities\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "D:\\RSCS\\RSCS Development\\FinancingStatement Migration\\RSCSFP\\RSCSFinancingStatements\\NuGet.Config",
+        "C:\\Users\\zafar.iqubal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R2 2023\\": {},
+        "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R2 2023\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.telerik.com/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
