@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NmsGYLi35jdIb9VbC8B800+roJvUjJQnLGDyxsTwCTUZrsA18UfIOUXTweC5AXhshB6+qSjqQJ81tQzl7Vfqlw==",
+  "success": true,
+  "projectFilePath": "D:\\MyProjects\\compProject\\AzureRBACEntraID\\RSCS.FinancingStatements.Core\\RSCS.FinancingStatements.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zafar.iqubal\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

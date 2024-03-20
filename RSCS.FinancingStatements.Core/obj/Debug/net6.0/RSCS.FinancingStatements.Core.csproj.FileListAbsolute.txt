@@ -1,0 +1,48 @@
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.csproj.AssemblyReference.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.AssemblyInfoInputs.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.AssemblyInfo.cs
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.csproj.CoreCompileInputs.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\bin\Debug\net6.0\RSCS.FinancingStatements.Core.deps.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\bin\Debug\net6.0\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\bin\Debug\net6.0\RSCS.FinancingStatements.Core.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\refint\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\ref\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\bin\Debug\net6.0\RSCS.FinancingStatements.Core.deps.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\bin\Debug\net6.0\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\bin\Debug\net6.0\RSCS.FinancingStatements.Core.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.csproj.AssemblyReference.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.AssemblyInfoInputs.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.AssemblyInfo.cs
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.csproj.CoreCompileInputs.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\refint\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\nextStep\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\ref\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\bin\Debug\net6.0\RSCS.FinancingStatements.Core.deps.json
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\bin\Debug\net6.0\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\bin\Debug\net6.0\RSCS.FinancingStatements.Core.pdb
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.csproj.AssemblyReference.cache
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.AssemblyInfoInputs.cache
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.AssemblyInfo.cs
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.csproj.CoreCompileInputs.cache
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\refint\RSCS.FinancingStatements.Core.dll
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.pdb
+D:\RSCS\RSCS Development\POCs\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.Core\obj\Debug\net6.0\ref\RSCS.FinancingStatements.Core.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Core\bin\Debug\net6.0\RSCS.FinancingStatements.Core.deps.json
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Core\bin\Debug\net6.0\RSCS.FinancingStatements.Core.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Core\bin\Debug\net6.0\RSCS.FinancingStatements.Core.pdb
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.csproj.AssemblyReference.cache
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.AssemblyInfoInputs.cache
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.AssemblyInfo.cs
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.csproj.CoreCompileInputs.cache
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Core\obj\Debug\net6.0\refint\RSCS.FinancingStatements.Core.dll
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Core\obj\Debug\net6.0\RSCS.FinancingStatements.Core.pdb
+D:\MyProjects\compProject\AzureRBACEntraID\RSCS.FinancingStatements.Core\obj\Debug\net6.0\ref\RSCS.FinancingStatements.Core.dll
