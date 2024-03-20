@@ -1,0 +1,12 @@
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.BusinessObjects\bin\Debug\net6.0\RSCS.FinancingStatements.BusinessObjects.deps.json
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.BusinessObjects\bin\Debug\net6.0\RSCS.FinancingStatements.BusinessObjects.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.BusinessObjects\bin\Debug\net6.0\RSCS.FinancingStatements.BusinessObjects.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.BusinessObjects\obj\Debug\net6.0\RSCS.FinancingStatements.BusinessObjects.csproj.AssemblyReference.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.BusinessObjects\obj\Debug\net6.0\RSCS.FinancingStatements.BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.BusinessObjects\obj\Debug\net6.0\RSCS.FinancingStatements.BusinessObjects.AssemblyInfoInputs.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.BusinessObjects\obj\Debug\net6.0\RSCS.FinancingStatements.BusinessObjects.AssemblyInfo.cs
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.BusinessObjects\obj\Debug\net6.0\RSCS.FinancingStatements.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.BusinessObjects\obj\Debug\net6.0\RSCS.FinancingStatements.BusinessObjects.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.BusinessObjects\obj\Debug\net6.0\refint\RSCS.FinancingStatements.BusinessObjects.dll
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.BusinessObjects\obj\Debug\net6.0\RSCS.FinancingStatements.BusinessObjects.pdb
+D:\RSCS\RSCS Development\FinancingStatement Migration\RSCSFP\RSCSFinancingStatements\RSCS.FinancingStatements.BusinessObjects\obj\Debug\net6.0\ref\RSCS.FinancingStatements.BusinessObjects.dll
